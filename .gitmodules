@@ -1,0 +1,3 @@
+[submodule "chiaki"]
+	path = chiaki
+	url = git@git.sr.ht:~thestr4ng3r/chiaki
